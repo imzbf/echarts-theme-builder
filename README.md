@@ -2,7 +2,7 @@
 
 Design your own theme for Apache ECharts.
 
-[Online Theme Builder](https://echarts.apache.org/theme-builder.html)
+[https://imzbf.github.io/echarts-theme-builder/zh/index.html](https://imzbf.github.io/echarts-theme-builder/zh/index.html)
 
 ![](https://raw.githubusercontent.com/Ovilia/ECharts-Theme-Builder/master/assets/essos.png)
 
